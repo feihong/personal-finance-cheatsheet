@@ -1,5 +1,13 @@
 # Personal Finance Cheatsheet
 
+## Paying bills
+
+- Make a spreadsheet of all your billed accounts (rent, electric, gas, internet, credit card, etc).
+- Set up auto-pay for bills using your credit card (so you can earn points).
+- For bills that can't be paid using a credit card, use the auto-pay feature of your checking account (make sure to set an end date so you don't keep paying the landlord after your lease is expired).
+
+Source: [The Psychology of Automation: Building a Bulletproof Personal-Finance System](http://www.iwillteachyoutoberich.com/blog/the-psychology-of-automation-building-a-bulletproof-personal-finance-system/)
+
 ## Keeping financial records
 
 - Get a box that you can use to hold file folders for quick access to files.
@@ -15,12 +23,12 @@ Source: [Which Financial Records to Keep (and How Long to Keep Them)](http://www
 
 ## Retirement savings
 
-- Put money in Roth 401k, up to employer's match
-- Put money into Roth IRA (use Vanguard)
-- If IRA is maxed out, then put more money into 401k
-- If you have any money left, open non-retirement investment account and add money to it
+- Put money in Roth 401k, up to employer's match.
+- Put money into Roth IRA (use Vanguard).
+- If IRA is maxed out, then put more money into 401k.
+- If you have any money left, open non-retirement investment account and add money to it.
+- You can automate the process of paying into your retirement accounts.
+- Keep a spreadsheet of the annual contributions for retirement accounts so you don't accidentally go over them.
+- Schedule an annual review of your retirement contributions to make sure you're maxing them out.
 
-Sources: 
-
-- [Use the Ladder Method to Make Investing Simpler](http://twocents.lifehacker.com/use-the-ladder-method-to-make-investing-simpler-1625804066)
-- [How to pick a Roth IRA](http://www.iwillteachyoutoberich.com/blog/how-to-pick-a-rothira/)
+Sources: [Use the Ladder Method to Make Investing Simpler](http://twocents.lifehacker.com/use-the-ladder-method-to-make-investing-simpler-1625804066), [How to pick a Roth IRA](http://www.iwillteachyoutoberich.com/blog/how-to-pick-a-rothira/)
