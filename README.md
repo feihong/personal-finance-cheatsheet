@@ -37,6 +37,8 @@ Sources: [Use the Ladder Method to Make Investing Simpler](http://twocents.lifeh
 ## Security
 
 - Use a password manager to store your online account credentials.
+- Put the password manager file in Dropbox or some other reliable online backup folder.
 - Use a different password for each account. 
 - Always use a strong password.
 - If possible, link account authentication to your cell phone. For example I can't log in to my Vanguard account unless I enter a security code that I receive via text message.
+- In the case of theft or loss, keep scanned copies of your ID documents inside your password manager (e.g. driver's license, social security card, passport, etc).
