@@ -24,11 +24,19 @@ Source: [Which Financial Records to Keep (and How Long to Keep Them)](http://www
 ## Retirement savings
 
 - Put money in Roth 401k, up to employer's match.
+- Put money into Health Savings Account.
 - Put money into Roth IRA (use Vanguard).
 - If IRA is maxed out, then put more money into 401k.
 - If you have any money left, open non-retirement investment account and add money to it.
-- You can automate the process of paying into your retirement accounts.
-- Keep a spreadsheet of the annual contributions for retirement accounts so you don't accidentally go over them.
+- You should automate the process of paying into your retirement accounts.
+- Keep a spreadsheet of the annual contribution limits for retirement accounts and how much you contribute every month. This way you can prevent yourself from accidentally going over them.
 - Schedule an annual review of your retirement contributions to make sure you're maxing them out.
 
 Sources: [Use the Ladder Method to Make Investing Simpler](http://twocents.lifehacker.com/use-the-ladder-method-to-make-investing-simpler-1625804066), [How to pick a Roth IRA](http://www.iwillteachyoutoberich.com/blog/how-to-pick-a-rothira/)
+
+## Security
+
+- Use a password manager to store your online account credentials.
+- Use a different password for each account. 
+- Always use a strong password.
+- If possible, link account authentication to your cell phone. For example I can't log in to my Vanguard account unless I enter a security code that I receive via text message.
